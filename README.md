@@ -1,2 +1,3 @@
-# CrudApiNodeExpress
-Desafio 1 no bootcamp da Rocketseat
+# Api simples com um CRUD completo utilizando NodeJS e Express
+
+
